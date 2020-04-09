@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "id":"uniq-1",
+            "name":"İsa Yıldırım",
+            "salary":"4000",
+            "department":"Bilişim"
+          },
+          {
+            "id":"uniq-2",
+            "name":"Mehmet Yıldırım",
+            "salary":"4400",
+            "department":"Pazarlama"
+          },
+          {
+            "id":"uniq-3",
+            "name":"Cemal Yıldırım",
+            "salary":"3000",
+            "department":"Üretim"
+          }
+    ]
+}
